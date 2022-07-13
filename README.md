@@ -13,9 +13,11 @@
   <em>
     <h3>
      Summary Blog Creator at
+      <p>
       <a href="https://highwindleos.github.io/">
          <img src="https://github.com/highwindLeos/highwindLeos.github.io/blob/master/images/animationImage/vocaloid/Vocaloid%20276.jpg?raw=true" height="150px" />
       </a>
+      </p>
     </h3>
   </em>
   <em>
